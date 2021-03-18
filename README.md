@@ -1,2 +1,2 @@
 # MSP432_EmbeddedProjects
-Fun messing with embedded systems with RTOS and FSM LUT with the MSP432
+Some fun messing around with embedded systems using RTOS and FSM LUT with the MSP432.
